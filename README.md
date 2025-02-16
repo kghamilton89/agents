@@ -1,3 +1,3 @@
-# SmolLM2 Trainer and Inference
+# agents
 
-> Powered by Hugging Face [SmolLM2](https://github.com/huggingface/smollm)
+This is a repo of open-source agents.
